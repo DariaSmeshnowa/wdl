@@ -1,0 +1,6 @@
+{
+  "reads_to_bam.R1" : "./749_d2_2n_S145_L001_R1_001.fastq",
+  "reads_to_bam.R2" : "./749_d2_2n_S145_L001_R2_001.fastq",
+  "reads_to_bam.reference" : "./reference.fasta"
+
+}
